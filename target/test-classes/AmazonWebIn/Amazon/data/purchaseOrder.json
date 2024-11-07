@@ -1,0 +1,12 @@
+[
+{
+"email" :"number",
+"password" : "PWD",
+"ProductName" : "Minimalist 10% Vitamin C Face Serum"
+},
+{
+"email" :"number2",
+"password" : "PWD2",
+"ProductName" : "Minimalist 10% Vitamin C Face Serum"
+}
+]
